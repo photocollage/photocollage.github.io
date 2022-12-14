@@ -200,6 +200,26 @@ triplelift.com, 12193-EB, RESELLER, 6c33edb13117fd86
 inmobi.com, 445a21be4613492a9545763b8c4bc548, DIRECT, 83e75a7ae333ca9d
 ad-generation.jp, 13687, DIRECT, 7f4ea9029ac04e53
 
+#Amazon Ads
+aps.amazon.com,f32cb217-567a-46a4-a6ec-55b5a1dfa1fb,DIRECT
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+smaato.com,1100044650,RESELLER,07bcf65f187117b4
+sonobi.com,24f603762e,RESELLER,d1a215d9eb5aee9e
+yieldmo.com,2719019867620450718,RESELLER
+inmobi.com,a66d4a9ff81c4595a9f71acf179f73c5,RESELLER,83e75a7ae333ca9d
+smartadserver.com,4125,RESELLER,060d053dcf45cbf3
+yahoo.com,55029,RESELLER,e1a5b5b6e3255540
+adcolony.com,44ef7fd4adebf701,RESELLER,1ad675c9de6b5176
+indexexchange.com,192410,RESELLER,50b1c356f2c5c8fc
+admanmedia.com,726,RESELLER
+pubmatic.com,160080,RESELLER,5d62403b186f2ace
+beachfront.com,14804,RESELLER,e2541279e8e2ca4d
+improvedigital.com,2050,RESELLER
+mintegral.com,10043,RESELLER,0aeed750c80d6423
+media.net,8CUM64E17,RESELLER
+start.io,uam,RESELLER
+
+
 
 
 
