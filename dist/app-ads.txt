@@ -448,7 +448,7 @@ rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 rhythmone.com, 3383599585, RESELLER, a670c89d4a324e47
 
 # GAM - A4G 14012
-#A4G a4g.com, 14012, DIRECT
+a4g.com, 14012, DIRECT
 google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
 indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
 pubmatic.com, 161218, RESELLER, 5d62403b186f2ace
